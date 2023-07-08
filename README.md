@@ -26,7 +26,7 @@
 <a href="https://linkedin.com/in/itswolkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itswolkan" height="30" width="40" /></a>
 <a href="https://fb.com/itswolkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itswolkan" height="30" width="40" /></a>
 <a href="https://instagram.com/itswolkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itswolkan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/itswolkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="itswolkan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/VolkanAydogdu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="itswolkan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
