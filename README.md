@@ -1,7 +1,12 @@
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io) -->
 
 <h1 align="center">Hi, I'm Volkan Aydogdu</h1>
-<h3 align="center">A passionate frontend developer from Canada</h3>
+<h3 align="center">Software Quality Assurance Tester,
+Junior Software Application Developer,
+Business Systems Support,
+Database Support,
+Technical Writer,
+Help Desk Support </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1396198/screenshots/4422089/code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsvolkan&label=Profile%20views&color=0e75b6&style=flat" alt="itsvolkan" /> </p>
