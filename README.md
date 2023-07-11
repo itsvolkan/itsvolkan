@@ -13,11 +13,11 @@ Help Desk Support </h3>
 
 <p align="left"> <a href="https://twitter.com/itswolkan" target="blank"><img src="https://img.shields.io/twitter/follow/itswolkan?logo=twitter&style=for-the-badge" alt="itswolkan" /></a> </p>
 
-- 🔭 I’m currently working on [X](#)
+- 🔭 I’m currently working on My Personel WebSite development(http://www.volkanweb.com/)
 
-- 🌱 I’m currently learning **x x x**
+- 🌱 I’m currently learning **Java**
 
-- 🤝 I’m looking for help with [x](#)
+- 🤝 I’m looking for help with [C#](#)
 
 - 👨‍💻 All of my projects are available at [http://www.volkanweb.com/](http://www.volkanweb.com/)
 
