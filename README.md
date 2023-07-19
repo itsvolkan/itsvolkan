@@ -15,7 +15,7 @@ Help Desk Support </h3>
 
 - 🔭 I’m currently working on My Personel WebSite development(http://www.volkanweb.com/)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning ****
 
 - 🤝 I’m looking for help with [C#](#)
 
