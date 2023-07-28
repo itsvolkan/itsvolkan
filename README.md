@@ -17,7 +17,7 @@ Help Desk Support </h3>
 
 - 🌱 I’m currently learning ****
 
-- 🤝 I’m looking for help with [C#](#)
+- 🤝 I’m looking for help with 
 
 - 👨‍💻 All of my projects are available at [http://www.volkanweb.com/](http://www.volkanweb.com/)
 
