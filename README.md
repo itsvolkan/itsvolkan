@@ -15,9 +15,9 @@ Help Desk Support </h3>
 
 - 🔭 I’m currently working on My Personel WebSite development(http://www.volkanweb.com/)
 
-- 🌱 I’m currently learning ****
+<!-- - 🌱 I’m currently learning **** -->
 
-- 🤝 I’m looking for help with 
+<!-- - 🤝 I’m looking for help with  -->
 
 - 👨‍💻 All of my projects are available at [http://www.volkanweb.com/](http://www.volkanweb.com/)
 
