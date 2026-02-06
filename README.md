@@ -59,8 +59,8 @@ I'm a detail-oriented **QA Tester** and **Junior Software Developer** passionate
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=itsvolkan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsvolkan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=itsvolkan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsvolkan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" height="170"/>
 
 </div>
 
@@ -74,7 +74,11 @@ I'm a detail-oriented **QA Tester** and **Junior Software Developer** passionate
 
 ## Contribution Graph
 
-[![Volkan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itsvolkan&theme=tokyo-night&hide_border=true)](https://github.com/itsvolkan)
+<div align="center">
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsvolkan&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
 
 ---
 
