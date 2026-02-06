@@ -1,45 +1,87 @@
-<!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io) -->
+<div align="center">
+  
+# Hi, I'm Volkan Aydogdu
 
-<h1 align="center">Hi, I'm Volkan Aydogdu</h1>
-<h3 align="center">Software Quality Assurance Tester,
-Junior Software Application Developer,
-Business Systems Support,
-Database Support,
-Technical Writer,
-Help Desk Support </h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1396198/screenshots/4422089/code.gif">
+### QA Tester • Junior Software Developer • Business & Technical Support
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsvolkan&label=Profile%20views&color=0e75b6&style=flat" alt="itsvolkan" /> </p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-volkanweb.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.volkanweb.com/)
+[![Email](https://img.shields.io/badge/Email-itswolkan@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itswolkan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-itswolkan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itswolkan)
+[![Twitter](https://img.shields.io/badge/Twitter-@itswolkan-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/itswolkan)
 
-<p align="left"> <a href="https://twitter.com/itswolkan" target="blank"><img src="https://img.shields.io/twitter/follow/itswolkan?logo=twitter&style=for-the-badge" alt="itswolkan" /></a> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=itsvolkan&label=Profile%20Views&color=0e75b6&style=flat-square)
 
-- 🔭 I’m currently working on My Personel WebSite development(http://www.volkanweb.com/)
+</div>
 
-<!-- - 🌱 I’m currently learning **** -->
+---
 
-<!-- - 🤝 I’m looking for help with  -->
+## About Me
 
-- 👨‍💻 All of my projects are available at [http://www.volkanweb.com/](http://www.volkanweb.com/)
+I'm a detail-oriented **QA Tester** and **Junior Software Developer** passionate about ensuring software quality and building reliable applications. With a background in both testing and development, I bridge the gap between technical excellence and user satisfaction.
 
-- 💬 Ask me about **react**
+- **Quality Assurance**: Test planning, test case design, defect reporting & regression testing
+- **Software Development**: Building responsive web applications with modern technologies
+- **Technical Support**: Troubleshooting, documentation & system optimization
 
-- 📫 How to reach me **itswolkan@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/itswolkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itswolkan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/itswolkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itswolkan" height="30" width="40" /></a>
-<a href="https://fb.com/itswolkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itswolkan" height="30" width="40" /></a>
-<a href="https://instagram.com/itswolkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itswolkan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/VolkanAydogdu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="itswolkan" height="30" width="40" /></a>
-</p>
+## What I'm Up To
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- Building my personal website at [volkanweb.com](http://www.volkanweb.com)
+- Deepening my knowledge in React & automated testing frameworks
+- Open to collaborate on QA automation and web development projects
+- Ask me about **React**, **QA workflows**, or **test automation**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsvolkan&show_icons=true&locale=en&layout=compact" alt="itsvolkan" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsvolkan&show_icons=true&locale=en" alt="itsvolkan" /></p>
+## Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsvolkan&" alt="itsvolkan" /></p>
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=itsvolkan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsvolkan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+
+</div>
+
+<div align="center">
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsvolkan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## Contribution Graph
+
+[![Volkan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itsvolkan&theme=tokyo-night&hide_border=true)](https://github.com/itsvolkan)
+
+---
+
+<div align="center">
+  
+### "Quality is not an act, it is a habit" - Aristotle
+
+**Let's connect and build something amazing together!**
+
+</div>
